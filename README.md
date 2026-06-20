@@ -42,23 +42,6 @@ The goal was to transform raw transactional data into actionable insights using 
 
 ---
 
-## 📷 Dashboard Preview
-
-### KPIs
-![KPIs]KPI Cards.jpg
-
-### Revenue Analysis
-![Revenue](Monthly Revenue Trend.jpg)
-
-### Product/Category Analysis
-![Products](Product-Category Exploration.jpg)
-
-### Geography
-![Countries](Revenue by Country.jpg)
-
-
-
----
 
 ## ⚠️ Data Note
 The dataset was structured for BI practice purposes and simulates real-world sales behavior.
